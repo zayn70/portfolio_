@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: rgb(27, 7, 82);
+    color: rgb(228, 108, 132);
+    padding: 10px;
+    font-size: 45px;
+}
+nav{
+    background-color: rgb(27, 7, 82);
+    padding: 20px;
+}
+a{
+    color: rgb(228, 108, 132);
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+a:hover{
+    background-color: black;
+    color: aqua;
+}
+
